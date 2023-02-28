@@ -6,5 +6,9 @@
      </a>
   <a href="https://t.me/AdrianCortes">
      <img src="https://img.shields.io/badge/-Telegram-blue" alt="LinkedIn Badge"/>
-          <a/>                                                                      
+          <a/>
+    <div id="badges">
+      <a href="https://github.com/AdrianCortes88">
+      <img src="https://github.com/AdrianCortes88/ghpvc/?Alexander-Torgovtsev=your-github-Alexander-Torgovtsev&style=for-the-badge&color=brightgreen" alt="Alexander-Torgovtsev"/>
+        <a/>
 </div>

@@ -4,4 +4,7 @@
   <a href="https://vk.com/adrian_cortes">
    <img src="https://img.shields.io/badge/-VK-blue" alt="LinkedIn Badge"/>
      </a>
+  <a href="https://t.me/AdrianCortes">
+     <img src="https://img.shields.io/badge/-Telegram-blue" alt="LinkedIn Badge"/>
+          <a/>                                                                      
 </div>
